@@ -1,0 +1,17 @@
+.login{
+    background-image: url(../img/bg.png);
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 15%;
+    .box-card {
+        width: 380px;
+        // margin: 30vh auto;
+      }
+    h2{
+        color: white;
+    }
+}
+
